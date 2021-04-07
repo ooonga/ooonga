@@ -1,16 +1,31 @@
-### Hi there 👋
+## <center># 👩‍💻 Web Publisher, LEE GA YEONG</center>
 
-<!--
-**ooonga/ooonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="right">#행동력　#호기심　#공상　#승부욕</div>
+<br><br>
+<center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I can do 😍
+<img src="https://img.shields.io/badge/Html5-e34f26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-0672CB?style=flat&logo=Adobe Photoshop&logoColor=white"/>
+
+<br><br>
+
+## I'm learning 🧐
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pug-a86454?style=flat&logo=Pug&logoColor=white"/>
+
+
+<br><br>
+
+## [portfolio](http://go0lee.cafe24.com/) & clone site
+
+[`지방교육재정알리미`](http://go0lee.cafe24.com/eduinfo/index.html)　[`현대퓨처넷`](http://go0lee.cafe24.com/hyundai/index.html)　[`오키친`](http://go0lee.cafe24.com/okitchen/index.html)　[`어여모`](http://go0lee.cafe24.com/eoyeomo/index.html)
+</center>
