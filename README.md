@@ -1,7 +1,5 @@
 # <center>👩‍💻 Web Publisher, LEE GA YEONG</center>
 
-<div align="right">#행동력　#호기심　#공상　#승부욕</div>
-
 ## I can do 😍
 
 
